@@ -55,20 +55,4 @@ A powerful tool to fetch Bitcoin block data, extract all transactions, and index
 
 ---
 
-## 🔧 Quick Start
-
-1. Provide the Bitcoin block ID to the tool.
-2. The tool fetches all transactions and identifies associated Ordinals.
-3. View the results in a clean, user-friendly interface.
-
----
-
-## 🌍 Future Enhancements
-
-- Add support for live Ordinal updates as new inscriptions occur.
-- Enable searching for specific Ordinals within the blockchain.
-- Integrate with Bitcoin wallets to track user-owned Ordinals.
-
----
-
 Explore the world of Bitcoin transactions and Ordinals like never before! 🚀
