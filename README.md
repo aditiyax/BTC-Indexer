@@ -53,6 +53,3 @@ A powerful tool to fetch Bitcoin block data, extract all transactions, and index
 - **Frontend for Display**:
   - A simple UI to present the transactions and their Ordinals.
 
----
-
-Explore the world of Bitcoin transactions and Ordinals like never before! 🚀
